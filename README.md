@@ -1,5 +1,6 @@
 # Amazon-Retail-Sales-Dashboard
 Project Overview
+
 This project is an interactive Amazon Retail Sales Dashboard created using Power BI and SQL. The dashboard helps analyze sales performance, profit trends, customer behavior, and product performance through visual reports and KPIs.
 
 Objectives
@@ -37,8 +38,10 @@ Business Insights
 * Analyzed customer purchasing patterns
 * Compared regional sales performance
 Dataset Source
+
 Dataset collected from publicly available retail sales data for learning and analytical purposes.
 Source: Kaggle
 
 GitHub Tags
+
 Power BI SQL Data Analysis Dashboard Retail Sales Business Analytics
