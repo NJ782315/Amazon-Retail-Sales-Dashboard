@@ -39,7 +39,6 @@ Business Insights
 Dataset Source
 Dataset collected from publicly available retail sales data for learning and analytical purposes.
 Source: Kaggle
-Example:
 
 GitHub Tags
 Power BI SQL Data Analysis Dashboard Retail Sales Business Analytics
